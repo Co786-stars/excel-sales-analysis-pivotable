@@ -15,8 +15,8 @@
 
 <p>
   The purpose of this project is to show practical use of Pivot Tables for business reporting. 
-  Each pivot table highlights a specific angle of the data—such as product performance, regional trends, 
-  or time‑based summaries—making it easier to understand patterns and make decisions. 
+  Each pivot table highlights a specific angle of the data—such as product performance, regional trends, or time based summaries making 
+  it easier to understand patterns and make decisions. 
   Pivot charts are included to support visual interpretation and provide a quick overview of key metrics.
 </p>
 
