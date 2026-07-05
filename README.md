@@ -1,4 +1,4 @@
-# excel-sales-analysis-pivotable
+# 📊 excel-sales-analysis-pivotable
 
 - Project showcases a complete data analysis workflow using <b>Excel Pivot Tables</b>.<br>
 This project is a basic data analysis done using Excel Pivot Tables. 
