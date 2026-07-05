@@ -5,7 +5,7 @@
   This project is a basic data analysis done using Excel Pivot Tables. 
   The Excel file contains raw data along with multiple pivot tables and charts that help summarize 
   and understand the information more easily.
-</p>
+</p><br>
 
 
 <p>
